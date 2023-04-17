@@ -25,4 +25,6 @@ public class EvaluacionCalificaciones {
 
         System.out.println("La evaluación de las calificaciones es: " + evaluacion);
     }
+
+    
 }
